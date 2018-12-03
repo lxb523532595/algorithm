@@ -1,0 +1,5 @@
+
+lsquid:UselessImportCheck">Remove this unused import 'sun.plugin.javascript.navig.Array'.(Ü¾šÈýÿÿÿÿ8Ì÷å¿ì+
+Vsquid:S1191"5Use classes from the Java API instead of Sun classes.(’™ÆÊûÿÿÿÿ8Ì÷å¿ì+
+nsquid:UselessImportCheck"@Remove this unused import 'com.sun.tools.javac.util.ArrayUtils'.(’™ÆÊûÿÿÿÿ8Ì÷å¿ì+
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(½·ÕŠûÿÿÿÿ8¨çí¿ì+
