@@ -1,4 +1,4 @@
-package lixb.com.config;
+package lixb.com.myproject.config;
 
 import org.hibernate.validator.HibernateValidator;
 import org.springframework.context.annotation.Bean;
